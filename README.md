@@ -53,5 +53,59 @@
   numpy
   pandas
   ```
+Course assignments and practice notebooks from the Computer Vision class at Chang Gung University.
 
+  ## Repository Structure
+
+  ```
+  Computer-vision/
+  ├── HW/               # Homework assignments
+  │   ├── HW2.ipynb
+  │   ├── HW3.ipynb
+  │   ├── 電腦視覺hw4.ipynb
+  │   └── HW5.ipynb
+  └── Practice/         # In-class practice
+      ├── PRACTICE1.ipynb
+      ├── PRACTICE2.ipynb
+      ├── PRACTICE3.ipynb
+      ├── PRACTICE4.ipynb
+      ├── PRACTICE5.ipynb
+      ├── PRACTICE6.ipynb
+      └── Practice7/
+  ```
+
+  ## Homework
+
+  | Assignment | Topic | Technologies |
+  |------------|-------|--------------|
+  | HW2 | Image Data Visualization & Analysis | Python、Matplotlib、NumPy |
+  | HW3 | Facial Keypoint Detection (CNN) | PyTorch、CNN、MSE Loss |
+  | HW4 | Object Detection (RetinaNet) | PyTorch、RetinaNet、Oxford-IIIT Pet Dataset |
+  | HW5 | 3D Point Cloud Registration (RANSAC + ICP) | Open3D、RANSAC、ICP |
+
+  ## Practice
+
+  | Session | Topic | Technologies |
+  |---------|-------|--------------|
+  | Practice 1 | Multi-subplot Image Visualization | Matplotlib |
+  | Practice 2 | Facial Keypoint Detection (FCN) | PyTorch、FCN、SGD |
+  | Practice 3 | Facial Keypoint Detection (CNN) | PyTorch、CNN、Adam |
+  | Practice 4 | Handwritten Digit Recognition + Face Detection | OpenCV、HOG、SVM、Haar Cascade |
+  | Practice 5 | Introduction to Open3D | Open3D |
+  | Practice 6 | 3D Surface Reconstruction (Ball Pivoting) | Open3D、Ball Pivoting Algorithm |
+  | Practice 7 | Multi-view Voxel Carving | Open3D、Voxel Grid |
+
+  ## Requirements
+
+  ```
+  torch
+  torchvision
+  open3d
+  opencv-python
+  matplotlib
+  numpy
+  pandas
+  ```
+
+  ---
   ---
