@@ -107,5 +107,3 @@ Course assignments and practice notebooks from the Computer Vision class at Chan
   pandas
   ```
 
-  ---
-  ---
